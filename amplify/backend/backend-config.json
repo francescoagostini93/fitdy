@@ -1,0 +1,11 @@
+{
+	"api": {
+		"fitdy": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"securityType": "API_KEY"
+			}
+		}
+	}
+}
